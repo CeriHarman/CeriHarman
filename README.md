@@ -8,3 +8,9 @@ Hi, I'm Ceri! I'm currently an MSc Bioinformatics student with a BSc in Biomedic
 - ⚡ Software Knowledge: 
   - **Population Genetics and Computational Biology**: msprime, pg-gan, STRUCTURE, PLINK, BWA, SAMtools, VCFtools etc...
   - **Data Science and Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, pandas, NumPy, Matplotlib, Jupyter Notebook, RStudio etc...
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CeriHarman&show_icons=true&theme=dracula" alt="Ceri's GitHub stats" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=CeriHarman&theme=dracula&row=2&column=3" alt="GitHub Trophy" />
+</div>
