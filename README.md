@@ -1,4 +1,4 @@
-Hi, I'm Ceri! I have just finished my Masters in Bioinformatics and I have BSc in Biomedical Science. I’m the founder and editor of 'MITO-SIS mag' on Substack, and my interests are in statistics, genetics, pharmacology, and machine learning.
+Hi, I'm Ceri! I am a bioinformatics intern with a background in Msc Bioinformatics and BSc Biomedical Science. I’m the founder and editor of 'MITO-SIS mag' on Substack, and my interests are in statistics, genetics, pharmacology, and machine learning. 
 
 - 🔭 My most recent project: my MSc project "Demographic inference from cost-effective DNA sequencing experiments using deep learning" (repo= MSc-Project)
 - 🌱 I’m currently learning about the fascinating world of population genetics and ecology!
