@@ -1,4 +1,4 @@
-Hi, I'm Ceri! I am a UCL PhD candidate with a focus on the genetics of infertility. I’m the founder and editor of 'MITO-SIS mag' on Substack, and my interests are in statistics, genetics, women's health, and machine learning. 
+Hi, I'm Ceri! I am a UCL PhD candidate with a focus on the genetics of infertility. My interests are in mitochondria, preimplantation genetics and women's health 
 
 - 🔭 My most recent completed project on here: MSc project "Demographic inference from cost-effective DNA sequencing experiments using deep learning" (repo= MSc-Project)
 - 🌱 I’m currently learning about the fascinating world of women's health and fertility!
