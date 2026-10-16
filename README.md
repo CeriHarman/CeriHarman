@@ -1,8 +1,6 @@
-Hi, I'm Ceri! I am a UCL PhD candidate with a focus on the genetics of infertility. My interests are in mitochondria, preimplantation genetics and women's health 
+Hi, I'm Ceri! I am a PhD candidate with a focus on preimplantation genetics and infertility! 
 
 - 🔭 My most recent completed project on here: MSc project "Demographic inference from cost-effective DNA sequencing experiments using deep learning" (repo= MSc-Project)
-- 🌱 I’m currently learning about the fascinating world of women's health and fertility!
-- 💬 Ask me about MITO-SIS mag and what I'm up to!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ceriharman), [Substack](https://mitosismag.substack.com)
 - 😄 Languages: Python, SQL, R, Unix, HTML
 - ⚡ Software Knowledge: 
@@ -11,5 +9,6 @@ Hi, I'm Ceri! I am a UCL PhD candidate with a focus on the genetics of infertili
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CeriHarman&show_icons=true&theme=dracula" alt="Ceri's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=CeriHarman&show_icons=true&theme=dracula" />
+  
 </div>
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CeriHarman)](https://github.com/pranesh-2005/github-readme-stats-fast)
