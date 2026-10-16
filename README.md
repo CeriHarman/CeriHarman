@@ -11,6 +11,5 @@ Hi, I'm Ceri! I am a UCL PhD candidate with a focus on the genetics of infertili
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CeriHarman&show_icons=true&theme=dracula" alt="Ceri's GitHub stats" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=CeriHarman&theme=dracula&row=2&column=3" alt="GitHub Trophy" />
 </div>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CeriHarman)](https://github.com/pranesh-2005/github-readme-stats-fast)
